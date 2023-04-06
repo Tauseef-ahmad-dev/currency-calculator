@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="swap_icon">Swap Icon</string>
+    <string name="history">History</string>
+    <string name="default_value_zero">0</string>
+    <string name="clear_all">Clear All</string>
+    <string name="recent">Recent</string>
+</resources>
